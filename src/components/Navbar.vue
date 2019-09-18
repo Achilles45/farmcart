@@ -77,7 +77,7 @@ export default {
         z-index: 100;
         width: 100%;
         left: 0 !important;
-        height: calc(100vh - 30%);
+        height: calc(100vh - 20%);
         display: none !important;
         line-height: 4;
         .nav__link{

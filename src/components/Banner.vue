@@ -64,6 +64,7 @@ export default {
        .banner__contents{
            h1{
                text-shadow: none !important;
+               font-size: 1.5rem !important;
            }
            p{
                opacity: .9 !important;
