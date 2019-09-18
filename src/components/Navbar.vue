@@ -83,7 +83,7 @@ export default {
         .nav__link{
             color:#fff !important;
             padding-left: 0 !important;
-            font-size: .95rem !important;
+            font-size: .9rem !important;
         }
     }
     .navbar__toggler{
