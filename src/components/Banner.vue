@@ -37,6 +37,7 @@ export default {
             font-size: 2.5rem;
             font-family: 'Roboto';
             text-transform: uppercase;
+            letter-spacing:1px;
         }
         p{
             font-family: 'Roboto';

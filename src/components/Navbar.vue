@@ -68,6 +68,9 @@ export default {
 
 //MEDIA QUERIES
 @media only screen and (max-width: 768px){
+      .logo{
+          font-size:1rem;
+      }
     .navbar__links{
         flex-direction: column;
         background: $primary-color;
