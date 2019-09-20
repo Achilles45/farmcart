@@ -32,10 +32,13 @@ export default {
 <style lang="scss" scoped>
 @import '../styles/colors';
 .navbar__wrapper{
-    // background: green;
+    background: #fff;
     box-shadow: 0px 0px 3px rgba(0,0,0,.15);
     padding: .9rem 0;
     align-content: center !important;
+    position: fixed;
+    z-index: 9900;
+    width: 100% !important;
     .logo{
         text-decoration: none;
         color:$primary-color;

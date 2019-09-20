@@ -26,11 +26,10 @@ export default {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 10rem 0;
-    position: relative;
-    z-index: -100;
+    padding: 12rem 0;
     .banner__contents{
         color:#fff;
+        padding-top: 1rem;
         h1{
             font-weight: 800;
             text-shadow: 0.01em 0.01em 0.05em #fff;
@@ -49,7 +48,7 @@ export default {
             line-height: 1.5;
         }
         .hero__btn{
-            background: $primary-color !important;
+            background: rgb(68, 148, 46);
             color: #fff;
             text-decoration: none;
             padding: .9rem 4rem;
