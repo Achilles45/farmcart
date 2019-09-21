@@ -93,8 +93,8 @@ export default {
 <style lang="scss" scoped>
 .register{
     background: #EBECF1;
-    height: 100vh;
-      padding-top: 6rem;
+    height: auto;
+    padding:5rem 0;
 }
 .register__contents{
     background:#fff;
