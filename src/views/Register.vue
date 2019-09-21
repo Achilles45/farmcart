@@ -94,9 +94,12 @@ export default {
 .register{
     background: #EBECF1;
     height: 100vh;
+      padding-top: 6rem;
 }
 .register__contents{
-    padding-top: 6rem;
+    background:#fff;
+    padding: 3rem;
+    border-radius: 4PX;
 .heading{
 .logo{
     text-decoration: none;

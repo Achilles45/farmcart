@@ -2,8 +2,9 @@
     <section class="forgot__password container-fluid">
         <div class="container">
             <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4">
+                <div class="col-md-3"></div>
+                <div class="col-md-6">
+                    <div class="wrapper">
                     <div class="heading text-center">
                          <h3><router-link to="/" class="logo">farmcart.ng</router-link></h3>
                             <h4>Welcome Back</h4>
@@ -23,7 +24,8 @@
                             </div>
                     </form>
                 </div>
-                <div class="col-md-4"></div>
+                </div>
+                <div class="col-md-3"></div>
             </div>
         </div>
     </section>
@@ -34,6 +36,12 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+.wrapper{
+      padding-top: 6rem;
+      background:#fff;
+    padding: 3rem;
+    border-radius: 4PX;
+}
 .forgot__password{
     background: #EBECF1;
     height: 100vh;

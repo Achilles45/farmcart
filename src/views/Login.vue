@@ -2,8 +2,8 @@
     <section class="login container-fluid">
         <div class="container">
             <div class="row">
-                <div class="col-md-4"></div>
-                <div class="col-md-4">
+                <div class="col-md-3"></div>
+                <div class="col-md-6">
                     <div class="login__form__wrapper">
                         <div class="heading text-center">
                             <h3><router-link to="/" class="logo">farmcart.ng</router-link></h3>
@@ -31,7 +31,7 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-md-4"></div>
+                <div class="col-md-3"></div>
             </div>
         </div>
     </section>
@@ -51,6 +51,9 @@ export default {
     // align-items: center;
     padding-top: 6rem;
     .login__form__wrapper{
+        background:#fff;
+        padding: 3rem;
+        border-radius: 4PX;
         .logo{
         text-decoration: none;
         color:rgb(68, 148, 46);
