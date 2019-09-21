@@ -35,7 +35,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .forgot__password{
-    background: #fafafa;
+    background: #EBECF1;
     height: 100vh;
     padding-top: 6rem;
 }

@@ -74,7 +74,7 @@
                             </div>
                             <button type="submit" class="register__btn">Register</button>
                             <div class="bottom__text text-center mt-3">
-                                <p>Don't have an account? <router-link to="/register" class="bottom-link">Register here</router-link></p>
+                                <p>Don't have an account? <router-link to="/login" class="bottom-link">Login</router-link></p>
                                 <small>By clicking register, you agree to our <router-link to="/" class="bottom-link">terms & conditions</router-link></small>
                             </div>
                         </form>
@@ -92,7 +92,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .register{
-    background: #fafafa;
+    background: #EBECF1;
     height: 100vh;
 }
 .register__contents{

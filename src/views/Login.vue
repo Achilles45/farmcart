@@ -44,7 +44,7 @@ export default {
 <style lang="scss" scoped>
 @import '../styles/colors';
 .login{
-    background: #fafafa;
+    background: #EBECF1;
     height: 100vh;
     // display: flex;
     // justify-content: center;
