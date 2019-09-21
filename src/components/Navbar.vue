@@ -41,7 +41,7 @@ export default {
     width: 100% !important;
     .logo{
         text-decoration: none;
-        color:$primary-color;
+        color:rgb(68, 148, 46);
         font-weight: bold;
         font-family: 'Roboto';
         font-size: 1.3rem;
