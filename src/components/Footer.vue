@@ -8,7 +8,7 @@
                         <h4>About Farmcart</h4>
                         <p>Farmcart is an agricultural crowdfunding paltform that seeks to connect small holder farmers to capital while providing competitive returns for investors. The company seeks to provide value in the entire agricultural value chain for both farmers and investors with a view on ending hunger</p>
                         <p> <small>Contact Detials:</small> 1 Adani Road, Off NYSC Camp, Enugu, Enugu State</p>
-                        <small>support@farmcart.com 08103515205 Mondays to Fridays: 9am to 5pm</small>
+                        <small>support@farmcart.com 08103515205 Mondays to  stFridays: 9am to 5pm</small>
                     </div>
                     <div class="col-md-4">
                         <div class="row">
@@ -48,6 +48,7 @@ export default {
 footer{
     .footer__contents{
         padding: 4rem 0; 
+        opacity: .5;
        h4{
            font-family: 'Lato';
        }
